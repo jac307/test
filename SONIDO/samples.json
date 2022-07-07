@@ -1,0 +1,8 @@
+[
+  { "url":"hear/01.wav","type":"audio","bank":"hear","n":1},
+  { "url":"hear/02.wav","type":"audio","bank":"hear","n":2},
+  { "url":"hear/03.wav","type":"audio","bank":"hear","n":3},
+  { "url":"listen/01.wav","type":"audio","bank":"listen","n":1},
+  { "url":"listen/02.wav","type":"audio","bank":"listen","n":2},
+  { "url":"listen/03.wav","type":"audio","bank":"listen","n":3}
+]
